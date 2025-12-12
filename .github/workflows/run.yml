@@ -2,7 +2,7 @@ name: Updating Steps
 
 on:
   schedule:
-    - cron: '0 3,9,13 * * *'
+    - cron: '32 3,6,13 * * *'
   workflow_dispatch:
 
 jobs:
